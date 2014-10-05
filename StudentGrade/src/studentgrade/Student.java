@@ -24,7 +24,6 @@ public class Student {
     // method
     public void Input() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("java StudentGrade ");
         line = sc.nextLine();
         member = line.split(" ");
     }
